@@ -36,9 +36,7 @@
       }
     },
     "AnyKernel3": {
-      "use": false,
-      "release": false,
-      "repo": "",
-      "branch": ""
+      "use": true,
+      "release": true
     }
   }
