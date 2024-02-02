@@ -38,7 +38,7 @@
     "AnyKernel3": {
       "use": false,
       "release": false,
-      "repo": "https://github.com/easterNday/AnyKernel3/",
+      "repo": "",
       "branch": ""
     }
   }
